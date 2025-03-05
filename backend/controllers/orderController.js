@@ -36,14 +36,14 @@ const placeOrder = async (req,res) =>{
 }
 
 // placing order using stripe method
-const placeOrderStripe = async (req,res) =>{
+// const placeOrderStripe = async (req,res) =>{
 
-}
+// }
 
 // placing order using Razorpay
-const placeOrderRazorpay = async (req,res) =>{
+// const placeOrderRazorpay = async (req,res) =>{
 
-}
+// }
 
 // All Orders data for Admin Panel
 const allOrders = async (req,res) =>{
